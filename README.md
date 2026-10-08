@@ -2,7 +2,7 @@
 
 <!-- ✏️ Replace everything in this file with YOUR game's info. Keep the headings. -->
 
-**Play it:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**Play it:** https://github.com/Jayl33c?tab=repositories
 
 **Made by:** Jaylee Caba
 
